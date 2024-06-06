@@ -6,7 +6,7 @@
 
 ![Hiago GitHub stats](https://github-readme-stats.vercel.app/api?username=HiagoSant223&show_icons=true&theme=highcontrast)
 
-## Tecnologias
+## Tecnologias:
 
 <div style='display: inline_block'><br/>
   <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -20,6 +20,10 @@
   <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoSant223&layout=compact&theme=highcontrast)
+
 <br/><br/>
 
 Sou um desenvolvedor de software dedicado, com uma forte base em Java, MySql, Spring Boot, React e Typescript. Tenho experiência prática em equipes ágeis e sou bem versado em metodologias Scrum, permitindo-me colaborar de maneira eficaz e adaptar-me rapidamente às mudanças de projeto. Recentemente, concluí o bootcamp de Desenvolvedor Fullstack Java pela Generation Brasil em 2024, onde aperfeiçoei ainda mais minhas habilidades técnicas. Estou pronto para aplicar meu conhecimento e fazer contribuições significativas em projetos desafiadores na área de tecnologia.
@@ -30,4 +34,3 @@ Sou um desenvolvedor de software dedicado, com uma forte base em Java, MySql, Sp
 - [Projeto Integrador Generation Brasil](https://github.com/Projeto-Integrador-Grupo-03)<br/>
 - [Blog pessoal - Plataforma para postagem de noticias](https://github.com/HiagoSant223/blog-pessoal-frontend)<br/>
 - [Clone jogo Star Wars Batterfild II](https://github.com/HiagoSant223/projeto-starwars)<br/>
-
