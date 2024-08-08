@@ -31,6 +31,7 @@ Sou um desenvolvedor de software dedicado, com uma forte base em Java, MySql, Sp
 <br/>
 
 ## Últimos projetos: 
+
+- [Página para Consulta de CNPJ]([https://github.com/HiagoSant223/blog-pessoal-frontend](https://github.com/HiagoSant223/TesteDesenvolvedorFrontEnd))<br/>
+- [Clone ToDo List MVC]([https://github.com/HiagoSant223/projeto-starwars](https://github.com/HiagoSant223/DesafioReactFrontendJunior2024))<br/>
 - [Projeto Integrador Generation Brasil](https://github.com/Projeto-Integrador-Grupo-03)<br/>
-- [Blog pessoal - Plataforma para postagem de noticias](https://github.com/HiagoSant223/blog-pessoal-frontend)<br/>
-- [Clone jogo Star Wars Batterfild II](https://github.com/HiagoSant223/projeto-starwars)<br/>
